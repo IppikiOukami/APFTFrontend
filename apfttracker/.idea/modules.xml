@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/APFTFrontend.iml" filepath="$PROJECT_DIR$/.idea/APFTFrontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apfttracker/.idea/APFTFrontend.iml" filepath="$PROJECT_DIR$/apfttracker/.idea/APFTFrontend.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34f224c5-4f2e-4d3e-a687-c52054b0b89b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apfttracker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/.idea/APFTFrontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apfttracker/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/apfttracker/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DG2kcQ4UQRinouxuVjmFcIgQ2M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f224c5-4f2e-4d3e-a687-c52054b0b89b" name="Changes" comment="" />
+      <created>1660311244853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660311244853</updated>
+      <workItem from="1660311246600" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
